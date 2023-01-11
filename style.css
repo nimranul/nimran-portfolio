@@ -11,7 +11,7 @@
 .header-body{
     width: 525px;
     height: 228px;
-    margin-left: 845px;
+    margin-left:50rem;;
     margin-top: 250px;
 }
 .header-subtitle{
@@ -35,7 +35,7 @@
     width: 160px;
     height: 64px;
     box-shadow:5px solid;
-    margin-left:365px;
+    margin-left: 22rem;
     border-radius: 5px;
     background-color: orange;
 }
